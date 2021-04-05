@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Site desenvolvido por SoftCreare, utilizando HTML,CSS,JS e Boostrap,para CVC Moto Express, todos os direitos reservados. 
 
-Template Name: Bootslander
-Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Caso queira um site como este, entre em contato (11)95351-6735.
+
